@@ -8,7 +8,7 @@ Author: Washmon Family Recipe
 ---
 ## Ingredients
 
-- Beef, ground, 1 lb
+- Beef, ground, 1 lb.
 - Onion, diced
 - Cream of mushroom, 1 can
 - Frozen peas and carrots (optional)
