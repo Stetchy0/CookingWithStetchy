@@ -1,7 +1,11 @@
+## Easy
 
-| Easy   | [[Red Pasta Sauce with Beef]]<br>[[Red Pasta Sauce with Turkey]]<br>[[Chicken Soup]] |
-| ------ | ------------------------------------------------------------------------------------ |
-| Medium | [[Zuppa Toscana]]                                                                    |
-| Hard   | [[Thai Red Curry]]                                                                   |
+- [[Red Pasta Sauce with Beef]]
+- [[Red Pasta Sauce with Turkey]]
+- [[Chicken Soup]]
+## Medium
 
+- [[Zuppa Toscana]]
+## Hard
 
+- [[Thai Red Curry]]
