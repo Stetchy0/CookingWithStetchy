@@ -1,14 +1,23 @@
-## Easy
+# Very Easy
 
+#### Savory
+- [[Slop]]
+- [[Grape Jelly Meatballs]]
+# Easy
+
+#### Savory
 - [[Red Pasta Sauce with Beef]]
 - [[Red Pasta Sauce with Turkey]]
 - [[Chicken Soup]]
-- [[Grape Jelly Meatballs]]
 - [[Mashed Potatoes]]
-## Medium
+#### Sweet
+- [[Pink Lemonade Pie]]
+# Medium
 
+#### Savory
 - [[Zuppa Toscana]]
 - [[Meatloaf]]
-## Hard
+# Hard
 
+#### Savory
 - [[Thai Red Curry]]
