@@ -2,6 +2,7 @@
 tags:
   - Italian
   - Pasta
+  - Beef
 ---
 ## Ingredients
 
@@ -15,10 +16,12 @@ tags:
 - Oil, olive preferred but any neutral oil will work
 
 ### Seasonings 
-Required	
+#### Required	
 - Italian Blend (Oregano, Parsley, Basil) (like $1 at walmart)
 - Garlic Powder or fresh
-###### Optional
+- Salt
+- Pepper
+#### Optional
 - Sriracha or Red Pepper Flakes
 - Tarragon (VERY SMALL AMOUNT)
 - Tony Chachere's
