@@ -53,4 +53,5 @@ NOTE: It would be a good idea to watch a few videos about seasoning curry or rea
 7. Add all of your vegetables, and if the squash is not submerged, add milk as needed. Simmer until squash is fork tender. Add the chicken back in.
 8. Remove 1/4 cup of the sauce into a separate container and mix in a tablespoon of cornstarch. Mix it WELL. Add the mix back into the pot and remove from heat. Let cool for ten minutes.
 9. If it is not thickened to your liking, add flour a tablespoon at a time, stirring well between tablespoons, until it is thickened to your liking. It is better to go through the trouble of repeating step 8, but at this point, you are tired and hungry. Be careful with flour, because it is more likely to affect the taste than cornstarch.
-10. Serve over prepared rice, and squeeze a lime wedge on top. Enjoy! you just busted your ass making this.
+10. While your curry sauce is resting, prepare your rice as the package directs, but add the basil leaves when the rice is halfway cooked.
+11. Serve over prepared rice, and squeeze a lime wedge on top, and maybe some more basil leaves. Enjoy! you just busted your ass making this.
