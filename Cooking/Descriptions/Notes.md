@@ -10,9 +10,10 @@
 ## Must-Have Ingredients
 
 
-| Ingredient                  | Description                                                                                  | Link                                                                                                               |
-| --------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Huy Fong Chile Garlic Sauce | This is delicious in basically everything garlic is. I add it to scrambled eggs, soups, etc. | https://staging-shop.sprouts.com/store/sprouts-farmers-market-test/products/76049-huy-fong-chili-garlic-sauce-8-oz |
+| Ingredient                  | Description                                                                                                                                                      | Link                                                                                                                                         |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Huy Fong Chile Garlic Sauce | This is delicious in basically everything garlic is. I add it to scrambled eggs, soups, etc.                                                                     | https://staging-shop.sprouts.com/store/sprouts-farmers-market-test/products/76049-huy-fong-chili-garlic-sauce-8-oz                           |
+| Olive Oil                   | Keep this in your pantry, its healthier and high smoke point. Better than vegetable oil (except for deep and shallow frying). It's good to just have it on hand. | Unless you are just straight up eating the oil (like bruschetta), then you don't need to buy the expensive fancy stuff. Great value will do. |
 
 ## Must-Have Equipment
 
