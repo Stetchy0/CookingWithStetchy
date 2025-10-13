@@ -14,7 +14,7 @@ tags:
 - Pasta, dry or frozen, your choice
 - Oil, olive preferred but any neutral oil will work
 
-##### Seasonings 
+### Seasonings 
 Required	
 - Italian Blend (Oregano, Parsley, Basil) (like $1 at walmart)
 - Garlic Powder or fresh
