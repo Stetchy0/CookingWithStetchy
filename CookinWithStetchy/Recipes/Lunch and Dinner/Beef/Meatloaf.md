@@ -34,4 +34,4 @@ Author: Washmon Family Recipe
 4. Transfer to a baking dish of some kind. Metal is preferred, but glass will do. Glass just makes the meatloaf shrink from the edges and it won't get a crisp edge, but it will still be delicious.
 5. Flatten the meat dough in the pan until its level. Sprinkle additional seasonings now if you are not confident it is seasoned enough (try to go by smell and spider sense). Smother it in as much ketchup as you want.
 6. Bake for at least 45 minutes before checking the internal temp. I recommend using a [[Notes#Must-Have Equipment|Probe Thermometer]] set to 160 degrees so you know when it is ready.
-7. Remove from oven and let sit for 10 minutes before cutting up and serving. Great with [[Mashed Potatoes.]]
+7. Remove from oven and let sit for 10 minutes before cutting up and serving. Great with [[Mashed Potatoes]].
