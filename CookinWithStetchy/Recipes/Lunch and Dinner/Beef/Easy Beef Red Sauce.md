@@ -5,24 +5,24 @@ tags:
 ---
 ## Ingredients
 
-Beef, ground, 1 lb.
-Tomato pasta sauce, 1 jar, brand of your choice (I recommend Classico)
-Tomato, canned, crushed or diced
-Onion, diced, 1/2 to 1 depending on preference (optional)
-Celery, sliced, 2 stalks (optional)
-Mushroom, 1 lb fresh or 1 jar (optional)
-Pasta, dry or frozen, your choice
-Oil, olive preferred but any neutral oil will work
+- Beef, ground, 1 lb.
+- Tomato pasta sauce, 1 jar, brand of your choice (I recommend Classico)
+- Tomato, canned, crushed or diced
+- Onion, diced, 1/2 to 1 depending on preference (optional)
+- Celery, sliced, 2 stalks (optional)
+- Mushroom, 1 lb fresh or 1 jar (optional)
+- Pasta, dry or frozen, your choice
+- Oil, olive preferred but any neutral oil will work
 
 ##### Seasonings 
 Required	
-Italian Blend (Oregano, Parsley, Basil) (like $1 at walmart)
-Garlic Powder or fresh
+- Italian Blend (Oregano, Parsley, Basil) (like $1 at walmart)
+- Garlic Powder or fresh
 ###### Optional
-Sriracha or Red Pepper Flakes
-Tarragon (VERY SMALL AMOUNT)
-Tony Chachere's
-Parmesan Cheese (or any other cheese, really)
+- Sriracha or Red Pepper Flakes
+- Tarragon (VERY SMALL AMOUNT)
+- Tony Chachere's
+- Parmesan Cheese (or any other cheese, really)
 
 ## Instructions
 
