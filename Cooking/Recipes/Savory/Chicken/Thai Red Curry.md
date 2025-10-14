@@ -7,6 +7,7 @@ tags:
   - Hard
 Author: Jessie
 ---
+Author: Stetchy
 ## Ingredients
 
 - Chicken, Tenderloins or breasts or boneless thighs, 2-4 pieces

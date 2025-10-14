@@ -8,6 +8,7 @@ tags:
   - Variations
 Author: Jessie
 ---
+Author: Stetchy
 ## Ingredients
 
 - Chicken meat of your choice*

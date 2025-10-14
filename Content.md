@@ -3,7 +3,7 @@
 
 #### Savory
 - [[Slop]]
-- [[Grape Jelly Meatballs]] :)
+- [[Grape Jelly Meatballs]]
 # Easy
 
 #### Savory
@@ -12,12 +12,16 @@
 - [[Chicken Soup]]
 - [[Mashed Potatoes]]
 #### Sweet
+- [[Crumb Pie Crust]]
 - [[Pink Lemonade Pie]]
 # Medium
 
 #### Savory
 - [[Zuppa Toscana]]
 - [[Meatloaf]]
+
+#### Sweet
+- [[Butterscotch Pie]]
 # Hard
 
 #### Savory

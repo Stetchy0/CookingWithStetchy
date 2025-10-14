@@ -6,9 +6,10 @@ tags:
   - Dessert
 Author: Memawl
 ---
+Author: Memawl
 ## Ingredients
 
-- Graham cracker pie crust (pre made)
+- Graham cracker pie crust (pre made) OR [[Crumb Pie Crust]]
 - Pink lemonade mix (it is a plastic can, frozen juice concentrate)
 - Tub of cool whip
 - Condensed milk, small can
@@ -21,4 +22,4 @@ Author: Memawl
 2. Add into crust and smooth the top.
 3. Garnish with fruits if using.
 4. Leave in fridge, covered, for at least 4 hours. You can also freeze it but be careful and check it often so the cream parts don't separate.
-5. Enjoy cold.
+5. Enjoy cold, from the fridge.
