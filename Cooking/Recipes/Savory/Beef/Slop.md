@@ -6,6 +6,7 @@ tags:
   - Rice
 Author: Washmon Family Recipe
 ---
+Author: Family Recipe
 ## Ingredients
 
 - Beef, ground, 1 lb.
