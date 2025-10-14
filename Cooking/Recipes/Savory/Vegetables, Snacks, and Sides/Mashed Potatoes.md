@@ -7,6 +7,7 @@ tags:
   - One-Pot
 Author: Jessie
 ---
+Author: Stetchy
 ## Ingredients
 
 - Potatoes*, diced (about an inch. Fastens cooking process)
