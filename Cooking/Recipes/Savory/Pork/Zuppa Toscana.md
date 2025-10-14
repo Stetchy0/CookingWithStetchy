@@ -8,6 +8,7 @@ tags:
   - Medium
 Author: Jessie and Michael
 ---
+Author: Stetchy and Poutine.Enjoyer
 ## Ingredients
 
 - Italian Sausage, ground or with casings removed, 1 lb.
