@@ -19,6 +19,7 @@
 #### Savory
 - [[Zuppa Toscana]]
 - [[Meatloaf]]
+- [[Spanish Rice]]
 
 #### Sweet
 - [[Butterscotch Pie]]
