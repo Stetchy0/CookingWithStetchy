@@ -7,7 +7,7 @@ tags:
   - Starch
 Author: Reagan
 ---
-Author:
+Author: Reagan
 ## Ingredients
 
 - Rice, white or jasmine, 2 cups
